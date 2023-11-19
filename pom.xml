@@ -11,6 +11,8 @@
     <modules>
         <module>a-introduction</module>
         <module>b-listener</module>
+        <module>c-decorator</module>
+        <module>d-factory</module>
     </modules>
 
     <properties>
