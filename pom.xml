@@ -13,6 +13,11 @@
         <module>b-listener</module>
         <module>c-decorator</module>
         <module>d-factory</module>
+        <module>e-single</module>
+        <module>f-command</module>
+        <module>g-adapter-and-facade</module>
+        <module>h-template</module>
+        <module>i-state</module>
     </modules>
 
     <properties>
