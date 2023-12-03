@@ -18,6 +18,9 @@
         <module>g-adapter-and-facade</module>
         <module>h-template</module>
         <module>i-state</module>
+        <module>j-proxy</module>
+        <module>k-composite</module>
+        <module>k-residual</module>
     </modules>
 
     <properties>
